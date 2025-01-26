@@ -1,4 +1,4 @@
-# **React Calculator with Testing**
+# **SimpleCalci**
 
 A modern React-based calculator application built to demonstrate robust testing practices. This project includes unit tests, test coverage reporting, and a clean UI with Tailwind CSS.
 
@@ -27,6 +27,11 @@ This project showcases various testing concepts using **Vitest**:
 5. **Test Coverage Report**: Analyze the coverage percentage of the codebase.
 
 ---
+## **Technologies Used** 
+- **React**: Modern UI library for building the frontend.
+- **Vitest**: Lightning-fast unit testing framework.
+- **Tailwind CSS**: Utility-first CSS framework for a clean and responsive design.
+- **Vite**: Next-generation frontend tooling for fast development and builds.
 
 ---
 
@@ -34,10 +39,70 @@ This project showcases various testing concepts using **Vitest**:
 
 ### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/your-username/react-calculator.git
+git clone https://github.com/sharryXheisenberg/FrontEnd_calculator_testing_project.git
 cd react-calculator
 ```
 
+### **Step 2: Install Dependencies**
+```bash
 npm install
+```
+
+### **Step 3: Start the Development Server**
+```bash
+npm run dev
+```
+
+## **Testing**
+
+### **Step 1: Unit testing**
+```bash
+npm run test
+```
+
+### **step 2: Generating Test Coverage Report** 
+```bash
+npm run coverage
+```
+
+# **Scripts**
+###  Install Required Packages
+1. Install the project dependencies:
+``` bash
+npm install
+```
+2. Start the development server with the following command:
+``` bash
+npm run dev
+```
+  Open the app in your browser at http://localhost:5173.
+
+3. Build the Project for Production
+``` bash
+npm run build
+```
+4. Preview Production Build
+``` bash
+npm run preview
+```
+5. Lint the Code
+``` bash
+npm run lint
+```
+
+## Contact
+For any queries or suggestions, feel free to reach out via [GitHub Issues](https://github.com/sharryXheisenberg/FrontEnd_calculator_testing_project/issues).
+
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+- [Vite](https://vitejs.dev/)
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+
 
 
