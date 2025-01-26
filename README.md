@@ -28,5 +28,16 @@ This project showcases various testing concepts using **Vitest**:
 
 ---
 
-## **Project Structure**
+---
+
+## **Installation**
+
+### **Step 1: Clone the Repository**
+```bash
+git clone https://github.com/your-username/react-calculator.git
+cd react-calculator
+```
+
+npm install
+
 
