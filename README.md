@@ -3,7 +3,7 @@
 A modern React-based calculator application built to demonstrate robust testing practices. This project includes unit tests, test coverage reporting, and a clean UI with Tailwind CSS.
 
 ## 🚀 **Live Project**
-Explore the live version of the calculator here: [React Calculator](https://front-end-calculator-testing-project.vercel.app/)  
+Explore the live version of the calculator here: [SimpleCalci](https://front-end-calculator-testing-project.vercel.app/)  
 Experience the features and functionality directly in your browser.
 
 ---
